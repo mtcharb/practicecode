@@ -1,9 +1,5 @@
 <! DOCTYPE HTML>
 
-# practicecode
-
-
-
 <html
 <body>
 
